@@ -1,2 +1,5 @@
-# public_init
-just for test
+#include"stdio.h"
+int main()
+{
+  printf("hello world");
+ }
